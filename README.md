@@ -2,6 +2,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC2BoMF0mLVgLUmEbyV3EO8g)
 ### Email para Contato:
 - josesilvadevinc@gmail.com<br/>
+ 
+
 ![VLHIDDEN GitHub stats](https://github-readme-stats.vercel.app/api?username=VLHIDDEN&show_icons=true&theme=dark&count_private=true)
 ## Linguagens que eu uso no meu dia
 <div style="display: inline_block">
