@@ -3,8 +3,18 @@
 ### Email para Contato:
 - josesilvadevinc@gmail.com<br/>
  
+##### LIGUAGENS MAIS USADAS
+| | | |
+| :---: |  :---: |  :---: |
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VLHIDDEN&theme=dark) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-![VLHIDDEN GitHub stats](https://github-readme-stats.vercel.app/api?username=VLHIDDEN&show_icons=true&theme=dark&count_private=true)
+
+
+
+
+
+
+
 ## Linguagens que eu uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
