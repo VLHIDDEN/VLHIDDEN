@@ -1,5 +1,7 @@
 ## Olá! Eu sou o José 🖐️
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UC2BoMF0mLVgLUmEbyV3EO8g)
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 ### Email para Contato:
 - josesilvadevinc@gmail.com<br/>
  
