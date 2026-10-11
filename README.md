@@ -13,6 +13,9 @@
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="center" alt="Kotllin" src="https://img.shields.io/badge/Java-B125EA?style=for-the-badge&logo=java&logoColor=white" />
+ 
+ <img align="center" alt="C++" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
 Apaixonado por progamação, Inovação.
 
